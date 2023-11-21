@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.215.236:8081/repository/bnpp-snapshot/</url>
+	      <url>http://13.233.215.236:8081/#browse/browse:bnpp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
